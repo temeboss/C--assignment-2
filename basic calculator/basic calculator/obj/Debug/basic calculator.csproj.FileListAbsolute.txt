@@ -1,0 +1,8 @@
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\C# assignment 2\basic calculator\basic calculator\bin\Debug\basic calculator.exe.config
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\C# assignment 2\basic calculator\basic calculator\bin\Debug\basic calculator.exe
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\C# assignment 2\basic calculator\basic calculator\bin\Debug\basic calculator.pdb
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\C# assignment 2\basic calculator\basic calculator\obj\Debug\basic calculator.csproj.AssemblyReference.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\C# assignment 2\basic calculator\basic calculator\obj\Debug\basic calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\C# assignment 2\basic calculator\basic calculator\obj\Debug\basic calculator.csproj.CoreCompileInputs.cache
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\C# assignment 2\basic calculator\basic calculator\obj\Debug\basic calculator.exe
+C:\Users\Al Muzdhar Computers\OneDrive\Desktop\Github\C# assignment 2\basic calculator\basic calculator\obj\Debug\basic calculator.pdb
